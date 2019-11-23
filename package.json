@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JemCdo/reserr/issues"
   },
-  "homepage": "https://github.com/JemCdo/reserr#readme"
+  "homepage": "https://github.com/JemCdo/reserr#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
