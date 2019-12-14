@@ -1,17 +1,16 @@
 {
   "name": "reserr",
-  "version": "1.0.0",
-  "description": "Web Blocker",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Web Blocker",  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JemCdo/reserr.git"
   },
   "author": "Emanate Co",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JemCdo/reserr/issues"
   },
