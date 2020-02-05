@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Resser</title>
+  <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.min.css" />
+  <style type="text/css">
+    #link-list {
+      height: 300px;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container mt-5">
+    <h4>Enter Link</h4>
+    <div class="form-group">
+      <input type="links" name="Link" value="" id="Link" placeholder="eg (https//:reserr.com)" class="form-control"
+        required>
+    </div>
+    <div class="form-group">
+      <button class="btn btn-primary" id="add-to-list">Add Link</button>
+    </div>
+    <div id="link-list">
+      <table class="table-striped" id="link-table">
+        <tr class="col-md-12">
+          <th>No.</th>
+          <th>Link</th>
+        </tr>
+      </table>
+    </div>
+    <script src="view.js"></script>
+  </div>
+</body>
+
+</html>
