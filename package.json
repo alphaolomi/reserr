@@ -1,21 +1,23 @@
 {
   "name": "reserr",
   "version": "0.0.1",
-  "description": "Web Blocker",  
+  "description": "ElegantWeb Blocker",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JemCdo/reserr.git"
-  },
   "author": "Emanate Co",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/JemCdo/reserr/issues"
-  },
-  "homepage": "https://github.com/JemCdo/reserr#readme",
   "dependencies": {
     "jquery": "^3.4.1"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphaolomi/reserr.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/alphaolomi/reserr/issues"
+  },
+  "homepage": "https://github.com/alphaolomi/reserr#readme"
 }
